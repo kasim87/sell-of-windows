@@ -52,8 +52,6 @@ function timer(selector, deadline) {
         }
     }
 
-    
-
     setClock(selector, deadline)
 }
 
